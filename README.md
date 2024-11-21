@@ -62,12 +62,10 @@ Python 3.x
 PostgreSQL installed and running
 Apache Kafka installed and configured
 Tableau Desktop or Tableau Public for visualization
-Installation
-Clone the repository:
-git clone https://github.com/your-username/weather-data-pipeline.git
-cd weather-data-pipeline
+
 Install dependencies:
 pip install -r requirements.txt
+
 Set up PostgreSQL:
 Create the database and table schema using the provided SQL script.
 Configure the OpenWeather API key:
